@@ -4,7 +4,7 @@ This is my home page! My name is Richard Hoang and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/04rhoang/04rhoang.github.io.git.
+My GitHub page is https://github.com/04rhoang/04rhoang.github.io.
 
 ### CPSC 120
 
